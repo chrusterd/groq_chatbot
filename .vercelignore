@@ -1,0 +1,4 @@
+# API 키 파일은 절대 업로드하지 않기 (Vercel에는 환경변수로 등록)
+.env
+server/.env
+node_modules
